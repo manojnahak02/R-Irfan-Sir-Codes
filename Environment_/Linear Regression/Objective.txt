@@ -1,0 +1,8 @@
+Objective:
+To find out the whether there is a relation between PM10 and other pollutants.
+Y=PM10
+X=Pb,Cd,Cu...
+
+H0 -> There is no relationship between PM10 and other pollutants.
+H1 -> There exists a relationship between PM10 and other pollutants.
+
